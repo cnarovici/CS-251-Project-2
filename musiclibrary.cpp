@@ -19,19 +19,8 @@
 
 using namespace std;
 
-// INSERTS GIVEN HELPERS CODE BELOW - DO NOT REMOVE
 #include "helpers.cpp"
-// INSERTS GIVEN HELPERS CODE ABOVE - DO NOT REMOVE
 
-//
-// NOTE TO STUDENTS:
-// You may use the functions in the helpers file,
-// but you may not modify the file or its contents in any way whatsoever.
-//
-
-//
-// STUDENT CODE MAY GO BELOW THIS LINE
-//
 //Struct use to store all artist and track names in sets for each map key.
 struct artAndTracks
 {
